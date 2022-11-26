@@ -1,5 +1,8 @@
 @tag
 Feature: Fizz Buzz Jazz
+
+  https://leetcode.com/problems/fizz-buzz/
+  Variant with 3 prime numbers
   
   For an integer n, return a string array answer (1-indexed) where:  
     answer[i] == "FizzBuzzJazz" if i is divisible by 3 and 5 and 7.
