@@ -2,14 +2,14 @@ package feature;
 
 import java.util.List;
 
-import testproject.bean.ListNode;
+import leetcode.bean.ListNode;
 
 public class TestWorld {
 
 	private List<String> fizzBuzzAnswer;
 	
 	private ListNode additionResult;
-
+	
 	public List<String> getFizzBuzzAnswer() {
 		return fizzBuzzAnswer;
 	}
@@ -25,4 +25,5 @@ public class TestWorld {
 	public void setAdditionResult(ListNode additionResult) {
 		this.additionResult = additionResult;
 	}
+	
 }

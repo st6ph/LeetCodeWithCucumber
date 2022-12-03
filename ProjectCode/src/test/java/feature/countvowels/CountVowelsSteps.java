@@ -3,7 +3,7 @@ package feature.countvowels;
 import org.junit.Assert;
 
 import io.cucumber.java.en.When;
-import testproject.CountVowels;
+import leetcode.CountVowels;
 
 public class CountVowelsSteps {
 

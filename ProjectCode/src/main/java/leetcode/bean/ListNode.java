@@ -1,4 +1,4 @@
-package testproject.bean;
+package leetcode.bean;
 
 public class ListNode {
 	

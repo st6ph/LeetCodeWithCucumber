@@ -7,7 +7,7 @@ import org.junit.Assert;
 import feature.TestWorld;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import testproject.FizzBuzz;
+import leetcode.FizzBuzz;
 
 public class FizzBuzzSteps {
 	

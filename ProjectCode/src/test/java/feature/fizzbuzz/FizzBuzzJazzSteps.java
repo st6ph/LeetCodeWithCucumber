@@ -10,7 +10,7 @@ import feature.fizzbuzz.bean.FizzBuzzResultBean;
 import io.cucumber.java.DataTableType;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import testproject.FizzBuzzJazz;
+import leetcode.FizzBuzzJazz;
 
 public class FizzBuzzJazzSteps {
 	

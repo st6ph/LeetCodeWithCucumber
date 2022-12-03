@@ -3,7 +3,7 @@ package feature.basiccalculator;
 import org.junit.Assert;
 
 import io.cucumber.java.en.When;
-import testproject.BasicCalculator;
+import leetcode.BasicCalculator;
 
 public class BasicCalculatorSteps {
 

@@ -9,8 +9,8 @@ import org.junit.Assert;
 import feature.TestWorld;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import testproject.AddTwoNumbers;
-import testproject.bean.ListNode;
+import leetcode.AddTwoNumbers;
+import leetcode.bean.ListNode;
 
 public class AddTwoNumbersSteps {
 	

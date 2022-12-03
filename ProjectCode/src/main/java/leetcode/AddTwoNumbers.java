@@ -1,6 +1,6 @@
-package testproject;
+package leetcode;
 
-import testproject.bean.ListNode;
+import leetcode.bean.ListNode;
 
 public class AddTwoNumbers {
 		

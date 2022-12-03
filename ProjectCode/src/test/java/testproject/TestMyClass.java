@@ -6,6 +6,8 @@ package testproject;
 import org.junit.Assert;
 import org.junit.Test;
 
+import leetcode.MyClass;
+
 public class TestMyClass {
     @Test
     public void testIsEnabled() {
